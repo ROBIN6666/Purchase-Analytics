@@ -58,6 +58,7 @@ def count_rows(_report_data):
     FinalD.pop(0)
     return FinalD
     print(len(FinalD))
+    print("file is formated {}".format(row))
 
 
 
