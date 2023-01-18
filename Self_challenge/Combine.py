@@ -57,7 +57,7 @@ def count_rows(_report_data):
         FinalD.append(newtempD)
     FinalD.pop(0)
     return FinalD
-    # print(len(FinalD))
+    print(len(FinalD))
 
 
 
